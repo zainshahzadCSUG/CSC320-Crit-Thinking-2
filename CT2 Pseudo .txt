@@ -1,0 +1,23 @@
+// CT2 	pseudo 
+
+- display "enter weekly income" -> prompt user to enter their weekly income (USD) 
+
+- tax withheld = income * tax rate 
+
+IF/ELSE IF STATEMENTS: 
+
+if income < $500 -> tax = 10% (multiply total income by .10) 
+
+ELIF:  
+
+>= $500 but < $1500, then 15% (multiply income by .15) 
+
+>= $1500 and < $2500 -> 20% (multiply income by .20) 
+
+>= 2500 -> 30% (multiply income by .30) 
+
+- print out user's weekly tax withholding in terminal based off above methods 
+
+
+
+
